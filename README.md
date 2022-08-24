@@ -25,4 +25,4 @@ To use, clone the repository on your device, navigate to the folder, and execute
 python3 main.py
 ```
 
-After enntering your desired delays, place your cursor where you wish the spam-text to go, for example in a chat on WhatsApp. Let the magic begin.
+After entering your desired delays, place your cursor where you wish the spam-text to go, for example in a chat on WhatsApp. Let the magic begin.
