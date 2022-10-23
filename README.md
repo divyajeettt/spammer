@@ -12,7 +12,7 @@ This program can be used to:
 - *Spam your teacher*
 
 spammer can help you to automate spam-texting your friends. \
-*<b>Note:</b> 'Enter' key must be set to send the text.* 
+***Note:** 'Enter' key must be set to send the text.* 
 
 ## Footnotes
 
